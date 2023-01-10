@@ -6,8 +6,8 @@ Here are some ideas to get you started:
 -->
 
 
-An HVAC engineer by day and self-learning web developer by night
+HVAC engineer by day and self-learning web developer by night,
 currently working on an idea to create a 'building heat loss calculation' app
-using node JS, express,  React
+using node JS, express,  React.
 
 
