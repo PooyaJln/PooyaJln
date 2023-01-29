@@ -7,7 +7,8 @@ Here are some ideas to get you started:
 
 
 HVAC engineer by day and self-learning web developer by night,
-currently working on an idea to create a 'building heat loss calculation' app
-using node JS, express,  React.
+currently working on an idea to create a 'building heat loss calculation' REST API
+using node JS, express and MySQL.
+After completting the API I'll focus on creating a frontEnd using React.
 
 
