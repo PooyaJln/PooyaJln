@@ -5,15 +5,11 @@ Here are some ideas to get you started:
 
 Familiar with:
 
-Backend (REST API) development using Expressjs,
-
-Javascrip, Nodejs,
-
-Python,
-
-MySQL, Sequelize ORM
-
-MongoDB, Mongoose ORM
+Backend (REST API) development using Expressjs, <br>
+Javascrip, Nodejs,<br>
+Python,<br>
+MySQL, Sequelize ORM<br>
+MongoDB, Mongoose ORM<br>
 
 Currently learning C#
 
